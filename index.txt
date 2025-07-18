@@ -1,0 +1,7 @@
+<html>
+<head>
+<title>index</title>
+<body Background = "bg-1.jpg ">
+</body>
+</head>
+</html>
